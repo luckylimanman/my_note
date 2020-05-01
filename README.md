@@ -1,5 +1,5 @@
 # my_note
-# PYTHON
-# FLASK
-# LINIX
-# SHELL
+# Python
+# Flask
+# Linux
+# Shell
